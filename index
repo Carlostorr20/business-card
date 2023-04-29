@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="card">
+            <img class="avatar" src="images/Carlos.jpg" alt="Carlos Torres smiling at the camera">
+            <div >
+                <img  >
+                <a href="https://www.environmentalautomation.com"><img class="logo" src="images/EAlogo.png" alt="Carlos smiling at camera"></a>
+                <h3>Carlos Torres</h3>             
+                <h4>Environmental Automation</h4>
+                <p>5351 Alhambra Ave.</p>
+                <p>Los Angeles, CA  90032</p>
+                <p>Email:<a href="mailto:webmaster@example.com">ctorres.ea@gmail.com</a></p>
+                
+                <p>Mobile: 626-833-9687</p>
+                <p>Office: 323-223-1500</p>
+            
+
+            </div>
+        </div>
+    </body>
+</html>
